@@ -82,7 +82,7 @@ body {
 }
 
 /* Title */
-.card-nft-title {
+.card-nft-title h1 {
   font-size: 24px;
   color: #fff;
   padding: 15px 0 0 0;
