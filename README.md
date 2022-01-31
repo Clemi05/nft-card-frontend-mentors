@@ -28,7 +28,7 @@ Users should be able to:
 
 Desktop Screenshot:
 
-![](./screenshot.jpg)
+![Desktop Screenshot](./images/screenshot-nft-preview-card-component_desktop.png)
 
 
 ### Links
